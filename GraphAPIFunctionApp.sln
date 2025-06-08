@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphAPIFunctionApp", "GraphAPIFunctionApp.csproj", "{A81FFCEC-BD82-472F-A1D8-BF0E879AE5A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81FFCEC-BD82-472F-A1D8-BF0E879AE5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81FFCEC-BD82-472F-A1D8-BF0E879AE5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81FFCEC-BD82-472F-A1D8-BF0E879AE5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81FFCEC-BD82-472F-A1D8-BF0E879AE5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6168539D-A291-4FB8-849D-4B9122648DA0}
+	EndGlobalSection
+EndGlobal
